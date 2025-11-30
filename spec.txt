@@ -20,21 +20,17 @@ Student Email must be unique per Course (a student can enroll only once per cour
 
 Reports:
 
-1. List all students currently enrolled (Status = Enrolled) grouped by Course Name.
+1. List all students currently enrolled for each Course.
 Include Student Name, Email, Enrollment Date.
-Completed Courses with Grades
 
 2. Show all students who have completed a course (Status = Completed).
 Include Course Name, Student Name, Grade, and Course Start Date.
-Dropout Rate per Course
 
 3. Calculate the number and percentage of students who dropped a course (Status = Dropped) for each course.
-Average Grade per Course
 
 4. Calculate the average final grade for each course where students have completed the course.
 Enrollment Trends Over Time
 
 5. Show the count of enrollments per month or quarter based on Enrollment Date.
-Students with Multiple Enrollments
 
 6. Identify students enrolled in more than one course at the same time.
